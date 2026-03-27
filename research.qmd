@@ -8,9 +8,9 @@ My work intersects psychiatry, genomics, and sociology to better understand ment
 
 **I lead three programs of research:**
 
-## Social isolation and mental health
+## Social connection and mental health
 
-To understand the link between experiences of social isolation and mental health from childhood to young adulthood.
+To understand how social experiences link to mental health from childhood to adulthood.
 
 ::: paper-row
 <a href="https://doi.org/10.1002/jcv2.12073"> <img src="images/JCPPA.png" class="paper-img"/> </a>
@@ -37,13 +37,10 @@ To quantify how experiences across the life span contribute to depression sympto
 To demonstrate how genetic findings and teachings must be embedded within societal context.
 
 <p style="text-align: center;">
-  <a href="https://www.wedowlab.com/humane-genetics-curriculum-hgc">
-    <img src="images/HGC.png" width="200px"><br>
-    Humane Genetics Curriculum
-  </a>
+
+<a href="https://www.wedowlab.com/humane-genetics-curriculum-hgc"> <img src="images/HGC.png" width="200px"/><br> Humane Genetics Curriculum </a>
+
 </p>
-
-
 
 ::: paper-row
 <a href="https://osf.io/preprints/psyarxiv/j5drc_v1"> <img src="images/Science.png" class="paper-img"/> </a>
