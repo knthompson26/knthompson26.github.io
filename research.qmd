@@ -1,0 +1,47 @@
+---
+title: "Research"
+format: html
+editor: visual
+---
+
+My work intersects psychiatry, genomics, and sociology, using innovative statistical approaches to integrate large-scale longitudinal data to better understand mental health.
+
+**I lead three programs of research:**
+
+### 1. Social isolation and mental health
+
+I explore the link between experiences of social isolation and mental health from childhood to young adulthood through assessing longitudinal trends, bidirectional associations, and genetic overlap. I am a member of the Lonliness Working Group.
+
+::: paper-row
+<a href="https://doi.org/10.1002/jcv2.12073"> <img src="images/JCPPA.png" class="paper-img"/> </a>
+
+<a href="https://doi.org/10.1016/j.jaacop.2023.02.001"> <img src="images/JAACAPO.png" class="paper-img"/> </a>
+
+<a href="https://doi.org/10.1007/s00787-024-02573-w"> <img src="images/ECAP.png" class="paper-img"/> </a>
+:::
+
+### 2. Large-scale data and depression
+
+I quantify how large-scale data reflecting experiences across the life span contribute to depression symptoms.
+
+::: paper-row
+<a href="https://doi.org/10.1002/da.23213"> <img src="images/D&amp;A.png" class="paper-img"/> </a>
+
+<a href="https://doi.org/10.1016/j.ssmph.2025.101886"> <img src="images/SSM.png" class="paper-img"/> </a>
+
+<a href="https://osf.io/preprints/psyarxiv/wf52a_v1"> <img src="images/SPPE.png" class="paper-img"/> </a>
+:::
+
+### 3. Genetics and society
+
+I demonstrate how genetics is embedded within societal context, through testing social mitigation of genetic effects as well as actively developing anti-deterministic genetic teaching materials. I am a member of the Responsible Genetics Collective.
+
+::: paper-row
+<a href="https://osf.io/preprints/psyarxiv/j5drc_v1"> <img src="images/Science.png" class="paper-img"/> </a>
+
+<a href="https://doi.org/10.1007/s10519-026-10251-7"> <img src="images/BG.png" class="paper-img"/> </a>
+
+<a href="https://doi.org/10.1016/j.xhgg.2025.100548"> <img src="images/HGG.png" class="paper-img"/> </a>
+:::
+
+------------------------------------------------------------------------

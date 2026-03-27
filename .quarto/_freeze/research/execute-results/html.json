@@ -1,0 +1,15 @@
+{
+  "hash": "547e9382070a5ee9fd623d96055949c0",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"research\"\nformat: html\neditor: visual\n---\n\nMy research uses innovative statistical methods to examine and enhance the ethical conduct, translation, and\n\nHer work broadly intersects psychiatry, genomics, and sociology, using innovative statistical approaches to integrate large-scale longitudinal data to better understand mental health.\n\ninterpretation of emerging genomic technologies. She has extensive expertise conducting interdisciplinary, public, and community engaged research at the intersection of genomics and the Ethical, Legal, and Social Implications (ELSI) of genetics. In particular, her research focuses on emerging genomic technologies such as polygenic scores and their downstream applications (e.g., direct-to-consumer genetic testing, polygenic embryo selection, polygenic-informed screenings). Daphne is author of the forthcoming book [*What We Inherit*](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit?srsltid=AfmBOorQWA2LOMrAFuiYmSuHljvcW16djOQ3gCRO_W-1x4x-gQL-8lfE).\n\n## Social isolation and health  \n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n## Understanding depression  \n\nWhen you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\nYou can add options to executable code like this\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 4\n```\n\n\n:::\n:::\n\n\nThe `echo: false` option disables the printing of code (only output is displayed).\n\n## Health disparities \n\n## Responsible genomics\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+.paper-row {
+  display: flex;
+  gap: 20px;
+  justify-content: flex-start; /* or center */
+  flex-wrap: wrap;
+}
+
+.paper-img {
+  width: 220px;   /* controls size */
+  height: auto;
+  border-radius: 6px;
+  transition: transform 0.2s ease;
+}
+

@@ -1,0 +1,20 @@
+{
+  "my-website.qmd": {
+    "my-website.html": "2a93c101"
+  },
+  "research.qmd": {
+    "research.html": "24067eab"
+  },
+  "index.qmd": {
+    "index.html": "5f8cd20f"
+  },
+  "publications.qmd": {
+    "publications.html": "3178ce5b"
+  },
+  "cv.qmd": {
+    "cv.html": "4763a45c"
+  },
+  "opinion.qmd": {
+    "opinion.html": "cdd19411"
+  }
+}
