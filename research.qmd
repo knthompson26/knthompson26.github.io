@@ -36,7 +36,13 @@ To quantify how experiences across the life span contribute to depression sympto
 
 To demonstrate how genetic findings and teachings must be embedded within societal context.
 
-[![Humane Genetics Curriculum](images/HGC.png){width="200px"}](https://www.wedowlab.com/humane-genetics-curriculum-hgc)
+<p style="text-align: center;">
+  <a href="https://www.wedowlab.com/humane-genetics-curriculum-hgc">
+    <img src="images/HGC.png" width="200px"><br>
+    Humane Genetics Curriculum
+  </a>
+</p>
+
 
 ::: paper-row
 <a href="https://osf.io/preprints/psyarxiv/j5drc_v1"> <img src="images/Science.png" class="paper-img"/> </a>
