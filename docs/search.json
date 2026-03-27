@@ -11,7 +11,28 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My work intersects psychiatry, genomics, and sociology to better understand mental health.\nI lead three programs of research:\n\nSocial isolation and mental health\nTo understand the link between experiences of social isolation and mental health from childhood to young adulthood.\n\n  \n  \n  \n\n\n\nDepression symptoms\nTo quantify how experiences across the life span contribute to depression symptoms using innovative statistical approaches to integrate large-scale longitudinal data.\n\n  \n  \n  \n\n\n\nGenetics and society\nTo demonstrate how genetic findings and teachings must be embedded within societal context.\n\n  Humane Genetics Curriculum"
+    "text": "My work intersects psychiatry, genomics, and sociology to better understand mental health.\nI lead three programs of research:"
+  },
+  {
+    "objectID": "research.html#social-isolation-and-mental-health",
+    "href": "research.html#social-isolation-and-mental-health",
+    "title": "Research",
+    "section": "Social isolation and mental health",
+    "text": "Social isolation and mental health\nTo understand the link between experiences of social isolation and mental health from childhood to young adulthood."
+  },
+  {
+    "objectID": "research.html#depression-symptoms",
+    "href": "research.html#depression-symptoms",
+    "title": "Research",
+    "section": "Depression symptoms",
+    "text": "Depression symptoms\nTo quantify how experiences across the life span contribute to depression symptoms using innovative statistical approaches to integrate large-scale longitudinal data."
+  },
+  {
+    "objectID": "research.html#genetics-and-society",
+    "href": "research.html#genetics-and-society",
+    "title": "Research",
+    "section": "Genetics and society",
+    "text": "Genetics and society\nTo demonstrate how genetic findings and teachings must be embedded within societal context.\n\n  Humane Genetics Curriculum"
   },
   {
     "objectID": "index.html",
@@ -32,6 +53,6 @@
     "href": "index.html#connect",
     "title": "Katherine N Thompson, PhD",
     "section": "Connect",
-    "text": "Connect\nGitHub\nGoogle Scholar\nLinkedIn\nBluesky\nORCID"
+    "text": "Connect\nGitHub\nGoogle Scholar\nLinkedIn\nBluesky\nORCID\nOpen Science Framework"
   }
 ]

@@ -8,7 +8,7 @@ My work intersects psychiatry, genomics, and sociology to better understand ment
 
 **I lead three programs of research:**
 
-### Social isolation and mental health
+## Social isolation and mental health
 
 To understand the link between experiences of social isolation and mental health from childhood to young adulthood.
 
@@ -20,7 +20,7 @@ To understand the link between experiences of social isolation and mental health
 <a href="https://doi.org/10.1007/s00787-024-02573-w"> <img src="images/ECAP.png" class="paper-img"/> </a>
 :::
 
-### Depression symptoms
+## Depression symptoms
 
 To quantify how experiences across the life span contribute to depression symptoms using innovative statistical approaches to integrate large-scale longitudinal data.
 
@@ -32,7 +32,7 @@ To quantify how experiences across the life span contribute to depression sympto
 <a href="https://osf.io/preprints/psyarxiv/wf52a_v1"> <img src="images/SPPE.png" class="paper-img"/> </a>
 :::
 
-### Genetics and society
+## Genetics and society
 
 To demonstrate how genetic findings and teachings must be embedded within societal context.
 
@@ -42,6 +42,7 @@ To demonstrate how genetic findings and teachings must be embedded within societ
     Humane Genetics Curriculum
   </a>
 </p>
+
 
 
 ::: paper-row
