@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-My work intersects psychiatry, genomics, and sociology to better understand mental health. 
+My work intersects psychiatry, genomics, and sociology to better understand mental health.
 
 **I lead three programs of research:**
 
@@ -20,9 +20,9 @@ To understand the link between experiences of social isolation and mental health
 <a href="https://doi.org/10.1007/s00787-024-02573-w"> <img src="images/ECAP.png" class="paper-img"/> </a>
 :::
 
-### Depression symptoms 
+### Depression symptoms
 
-To quantify how experiences across the life span contribute to depression symptoms using innovative statistical approaches to integrate large-scale longitudinal data. 
+To quantify how experiences across the life span contribute to depression symptoms using innovative statistical approaches to integrate large-scale longitudinal data.
 
 ::: paper-row
 <a href="https://doi.org/10.1002/da.23213"> <img src="images/D&amp;A.png" class="paper-img"/> </a>
@@ -34,16 +34,14 @@ To quantify how experiences across the life span contribute to depression sympto
 
 ### 3. Genetics and society
 
-To demonstrate how genetic findings and teachings must be embedded within societal context. 
+To demonstrate how genetic findings and teachings must be embedded within societal context.
 
-[Humane Genetics Curriculum](https://www.wedowlab.com/humane-genetics-curriculum-hgc)
+![](images/HGC.png){width="150px"} [Humane Genetics Curriculum](https://www.wedowlab.com/humane-genetics-curriculum-hgc)
 
 ::: paper-row
 <a href="https://osf.io/preprints/psyarxiv/j5drc_v1"> <img src="images/Science.png" class="paper-img"/> </a>
 
 <a href="https://doi.org/10.1007/s10519-026-10251-7"> <img src="images/BG.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1016/j.xhgg.2025.100548"> <img src="images/HGG.png" class="paper-img"/> </a>
 
 <a href="https://doi.org/10.1016/j.xhgg.2025.100548"> <img src="images/HGG.png" class="paper-img"/> </a>
 :::
