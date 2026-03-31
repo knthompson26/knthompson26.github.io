@@ -20,7 +20,7 @@ To understand how social experiences link to mental health from childhood to adu
 <a href="https://doi.org/10.1007/s00787-024-02573-w"> <img src="images/ECAP.png" class="paper-img"/> </a>
 :::
 
-## Depression symptoms
+## Depression risk and presentation across the life course
 
 To quantify how experiences across the life span contribute to depression symptoms using innovative statistical approaches to integrate large-scale longitudinal data.
 
