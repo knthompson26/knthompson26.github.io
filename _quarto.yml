@@ -17,5 +17,5 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, brand]
     css: styles.css
