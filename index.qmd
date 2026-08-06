@@ -8,7 +8,7 @@ editor: visual
 
 Hello!
 
-I am postdoctoral researcher in psychiatric epidemiology who conducts quantitative research on depression, social isolation, and health equity. I am based in the Department of Sociology at Purdue University with a PhD in Social, Genetic, and Developmental Psychology from King’s College London.
+I am research fellow in population mental health. I am based at the Centre for Longitudinal Studies at University College London (UCL) with a PhD in Social, Genetic, and Developmental Psychology from King’s College London.
 
 I committed to open, diverse, and communicable science.
 
