@@ -4,10 +4,12 @@ format: html
 editor: visual
 ---
 
-Our work can not be separated from our values, perspectives, and experiences.
+Our work is not separate from our values, perspectives, and biases.
 
 ::: paper-row
-<a href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(24)01129-6/fulltext"> <img src="images/BP.png" class="paper-img"/> </a>
+<a href="https://doi.org/10.1038/s41588-026-02668-x" title="Wedow, R.†, Thompson, K. N.†, Medland, S. E.†, Nivard, M. G.†, Neale, B. M.† (2026). The need to consider complexity in the future of behavioural genetics. Nature Genetics."> <img src="images/NatGen.png" class="paper-img"/> </a>
+
+<a href="https://doi.org/10.1016/j.biopsych.2024.02.1009" title="Current Complexities in Establishing Risk Factors for Attention-Deficit/Hyperactivity Disorder in Longitudinal Research (2024)"> <img src="images/BP.png" class="paper-img"/> </a>
 
 <a href="https://www.wthr.com/article/news/politics/protest-at-indiana-statehouse-push-back-against-donald-trump-nih-fund-health-cuts/531-a8a57b53-ad30-4bbf-9a16-6f024ba96a0d"> <img src="images/SUFS.png" class="paper-img"/> </a>
 :::

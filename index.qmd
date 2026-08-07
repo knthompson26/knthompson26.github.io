@@ -20,7 +20,145 @@ about:
 
 ## Hello!
 
-I am research fellow in population mental health. I am based at the Centre for Longitudinal Studies at University College London (UCL) with a PhD in Social, Genetic, and Developmental Psychology from King’s College London.
+I'm Katie, a Research Fellow in Population Mental Health based at the Centre for Longitudinal Studies, University College London (UCL) working as part of the fantastic [Bridging Divides](https://www.bridging-divides.org/) team.
 
-I committed to open, diverse, and communicable science.
+I committed to open, diverse, and accessible science.
 
+Working group memberships:
+
+- Loneliness Working Group
+- Responsible Genetics Collective
+
+Alum:
+
+- [The Dunn Lab](https://www.thedunnlab.com/erindunn)
+- [The Wedow Lab](https://www.wedowlab.com/)
+- [EDIT Lab](https://www.kcl.ac.uk/research/edit)
+
+------------------------------------------------------------------------
+
+### Research timeline
+
+::::::::::::: timeline
+:::: timeline-item
+::: timeline-date
+2026 -- Present
+:::
+
+<p class="timeline-title">
+
+Research Fellow, **University College London (UCL)**
+
+</p>
+
+<p class="timeline-subtitle">
+
+Centre for Longitudinal Studies (CLS) -- mentored by Dario Moreno Agostino
+
+</p>
+
+<p class="timeline-desc">
+
+Researching gender inequalities in population mental health: mapping indicators of sexism within UK longitudinal cohorts, co-producing research with young people, and using causal inference to estimate the impact of sexism on depression and anxiety.
+
+</p>
+::::
+
+:::: timeline-item
+::: timeline-date
+2024 -- 2026
+:::
+
+<p class="timeline-title">
+
+Postdoctoral Research Associate, **Purdue University**
+
+</p>
+
+<p class="timeline-subtitle">
+
+Department of Sociology -- mentored by Robbee Wedow and Erin Dunn
+
+</p>
+
+<p class="timeline-desc">
+
+Developed pipelines for a data hub housing longitudinal cohorts including Add Health, WLS, HRS, UKB, MIDUS, and ELSA. Led a project using innovative mixed models to examine how systems contribute to depression symptoms, and a project using causal inference to test whether social connection mitigates disparities in depression symptoms.
+
+</p>
+::::
+
+:::: timeline-item
+::: timeline-date
+2020 -- 2023
+:::
+
+<p class="timeline-title">
+
+PhD, Social, Genetic, and Developmental Psychiatry, **King's College London** 
+
+</p>
+
+<p class="timeline-subtitle">
+
+Social Genetic and Developmental Psychiatry Centre, -- Environmental Risk Longitudinal Twin Study (E-Risk), mentored by Louise Arseneault and Tim Matthews
+
+</p>
+
+<p class="timeline-desc">
+
+Led three projects applying longitudinal methods to understand the link between social isolation and mental health problems across development, developing expertise in structural equation modelling, growth mixture modelling, cross-lagged panel models, and twin models.
+
+</p>
+::::
+
+:::: timeline-item
+::: timeline-date
+2019 -- 2020
+:::
+
+<p class="timeline-title">
+
+Research Assistant, **King's College London** 
+
+</p>
+
+<p class="timeline-subtitle">
+
+NIHR BioResource Centre Maudsley -- GLAD Study, EDGI, and COPING Study, mentored by Gerome Breen
+
+</p>
+
+<p class="timeline-desc">
+
+Managed NHS participant recruitment and trained around 200 NHS Trusts and services on recruitment strategies, and developed large-scale data management pipelines (N \> 20,000) across multiple studies.
+
+</p>
+::::
+
+:::: timeline-item
+::: timeline-date
+2016 -- 2018
+:::
+
+<p class="timeline-title">
+
+Research Assistant, **King's College London**
+
+</p>
+
+<p class="timeline-subtitle">
+
+Institute of Psychiatry, Psychology & Neuroscience -- Early Development in Tuberous Sclerosis Study, mentored by Charlotte Tye
+
+</p>
+
+<p class="timeline-desc">
+
+Conducted behavioural assessments in infants across the UK and in the Birkbeck Baby Lab, including eye tracking, the Mullen Scales of Early Learning, ADOS, and EEG.
+
+</p>
+::::
+:::::::::::::
+
+------------------------------------------------------------------------
