@@ -1,122 +1,239 @@
 ---
 title: "Research"
 format: html
-editor: visual
+editor: source
 ---
 
-My work intersects psychiatry, sociology, and genomics to understand mental health across the life course, which covers four key areas: 
+::: research-lead
+My work sits at the intersection of psychiatry, sociology, and genetics.
 
-:::::: research-box-grid
-::: research-box
-<p class="research-box-title">
+```{=html}
+<div class="theme-grid">
+<button type="button" class="theme-card" data-filter="social">
+<span class="theme-num">01</span>
+<span class="theme-title">Social connection</span>
+<span class="theme-desc">How social isolation and loneliness develop from childhood into adulthood, and how they intertwine with mental health.</span>
+<span class="theme-cta">See related papers &darr;</span>
+</button>
+<button type="button" class="theme-card" data-filter="depression">
+<span class="theme-num">02</span>
+<span class="theme-title">Depression risk and presentation</span>
+<span class="theme-desc">Why depression looks different across age and sex, and how social, environmental, and genetic risk factors combine to shape symptoms across the life course.</span>
+<span class="theme-cta">See related papers &darr;</span>
+</button>
+<button type="button" class="theme-card" data-filter="genetics">
+<span class="theme-num">03</span>
+<span class="theme-title">Genetics and society</span>
+<span class="theme-desc">Bringing social science and genomics together responsibly.</span>
+<span class="theme-cta">See related papers &darr;</span>
+</button>
+<button type="button" class="theme-card" data-filter="disparities">
+<span class="theme-num">04</span>
+<span class="theme-title">Disparities in mental health</span>
+<span class="theme-desc">Understanding and reducing inequalities in mental health using existing longitudinal cohort data.</span>
+<span class="theme-cta">See related papers &darr;</span>
+</button>
+</div>
+```
 
-**Social connection**
+## Publications {#publications}
 
-</p>
-
-<p class="research-box-desc">
-
-</p>
+::: pub-intro
+Committed to open and reproducible science: pre-registrations on [Open Science Framework](https://osf.io/r58nz/) and code on [GitHub](https://github.com/knthompson26). Full list on [Google Scholar](https://scholar.google.co.uk/citations?user=xD4dn1IAAAAJ&hl=en). † joint first author.
 :::
 
-::: research-box
-<p class="research-box-title">
+```{=html}
+<div class="pub-filters" role="group" aria-label="Filter publications by theme">
+<span class="pub-filters-label">Filter:</span>
+<button type="button" class="pub-filter is-active" data-filter="all">All</button>
+<button type="button" class="pub-filter" data-filter="social">Social connection</button>
+<button type="button" class="pub-filter" data-filter="depression">Depression</button>
+<button type="button" class="pub-filter" data-filter="genetics">Genetics &amp; society</button>
+<button type="button" class="pub-filter" data-filter="disparities">Disparities</button>
+</div>
+```
 
-**Depression risk and presentation**
+::: pub-group
+### In press
 
-</p>
+```{=html}
+<div class="pub" data-themes="social disparities depression">
+<div class="pub-cover pub-cover--empty" aria-hidden="true">Preprint</div>
+<div class="pub-body">
+<p class="pub-title"><a href="https://doi.org/10.31234/osf.io/j5drc_v1">Social connection can mitigate depression risk</a></p>
+<p class="pub-meta"><strong>Thompson, K. N.</strong> et al. (2026). <em>Nature Human Behaviour (in press)</em>.</p>
+<p class="pub-links"><a href="https://doi.org/10.31234/osf.io/j5drc_v1">Preprint &rarr;</a><span class="pub-tag">Social connection</span><span class="pub-tag">Disparities</span><span class="pub-tag">Depression</span></p>
+</div>
+</div>
+<div class="pub" data-themes="depression genetics">
+<div class="pub-cover pub-cover--empty" aria-hidden="true">Preprint</div>
+<div class="pub-body">
+<p class="pub-title"><a href="https://doi.org/10.1101/2025.09.26.25335972">Transancestry GWAS of adolescent-onset depression</a></p>
+<p class="pub-meta">Grimes, P. et al. (2026). <em>Nature Genetics (in press)</em>.</p>
+<p class="pub-links"><a href="https://doi.org/10.1101/2025.09.26.25335972">Preprint &rarr;</a><span class="pub-tag">Depression</span><span class="pub-tag">Genetics &amp; society</span></p>
+</div>
+</div>
+```
 
-<p class="research-box-desc">
-
-</p>
 :::
 
-::: research-box
-<p class="research-box-title">
+::: pub-group
+### First author
 
-**Genetics and society**
+```{=html}
+<div class="pub" data-themes="depression">
+<a class="pub-cover" href="https://doi.org/10.1007/s00127-026-03098-0" tabindex="-1" aria-hidden="true"><img src="images/SPPE.png" alt=""></a>
+<div class="pub-body">
+<p class="pub-title"><a href="https://doi.org/10.1007/s00127-026-03098-0">Illuminating the complex interplay of risk factors for depression symptoms within a large-scale US longitudinal cohort</a></p>
+<p class="pub-meta"><strong>Thompson, K. N.</strong> et al. (2026). <em>Social Psychiatry and Psychiatric Epidemiology</em>.</p>
+<p class="pub-links"><a href="https://doi.org/10.1007/s00127-026-03098-0">Paper &rarr;</a><span class="pub-tag">Depression</span></p>
+</div>
+</div>
+<div class="pub" data-themes="genetics">
+<a class="pub-cover" href="https://doi.org/10.1007/s10519-026-10251-7" tabindex="-1" aria-hidden="true"><img src="images/BG.png" alt=""></a>
+<div class="pub-body">
+<p class="pub-title"><a href="https://doi.org/10.1007/s10519-026-10251-7">Developing and teaching curriculum to reduce genetic essentialism in college classrooms</a></p>
+<p class="pub-meta">Malerbi, K. F.†, Brubaker, A.†, Weindling, M.†, <strong>Thompson, K. N.</strong>† et al. (2026). <em>Behavior Genetics</em>.</p>
+<p class="pub-links"><a href="https://doi.org/10.1007/s10519-026-10251-7">Paper &rarr;</a><span class="pub-tag">Genetics &amp; society</span></p>
+</div>
+</div>
+<div class="pub" data-themes="social genetics">
+<a class="pub-cover" href="https://doi.org/10.1007/s00787-024-02573-w" tabindex="-1" aria-hidden="true"><img src="images/ECAP.png" alt=""></a>
+<div class="pub-body">
+<p class="pub-title"><a href="https://doi.org/10.1007/s00787-024-02573-w">The overlap between social isolation and mental health problems: a longitudinal behavioural genetic analysis in the E-Risk cohort</a></p>
+<p class="pub-meta"><strong>Thompson, K. N.</strong> et al. (2025). <em>European Child &amp; Adolescent Psychiatry</em>.</p>
+<p class="pub-links"><a href="https://doi.org/10.1007/s00787-024-02573-w">Paper &rarr;</a><span class="pub-tag">Social connection</span><span class="pub-tag">Genetics &amp; society</span></p>
+</div>
+</div>
+<div class="pub" data-themes="social">
+<a class="pub-cover" href="https://doi.org/10.1016/j.jaacop.2023.02.001" tabindex="-1" aria-hidden="true"><img src="images/JAACAPO.png" alt=""></a>
+<div class="pub-body">
+<p class="pub-title"><a href="https://doi.org/10.1016/j.jaacop.2023.02.001">Do children with attention-deficit/hyperactivity disorder symptoms become socially isolated? Longitudinal within-person associations in a nationally representative cohort</a></p>
+<p class="pub-meta"><strong>Thompson, K. N.</strong> et al. (2023). <em>JAACAP Open</em>. <span class="pub-note"><span class="pub-award">Editors’ Best Research Article 2023</span></span></p>
+<p class="pub-links"><a href="https://doi.org/10.1016/j.jaacop.2023.02.001">Paper &rarr;</a><span class="pub-tag">Social connection</span></p>
+</div>
+</div>
+<div class="pub" data-themes="social">
+<a class="pub-cover" href="https://doi.org/10.1002/jcv2.12073" tabindex="-1" aria-hidden="true"><img src="images/JCPPA.png" alt=""></a>
+<div class="pub-body">
+<p class="pub-title"><a href="https://doi.org/10.1002/jcv2.12073">Trajectories of childhood social isolation in a nationally representative cohort: associations with antecedents and early adulthood outcomes</a></p>
+<p class="pub-meta"><strong>Thompson, K. N.</strong> et al. (2022). <em>JCPP Advances</em>.</p>
+<p class="pub-links"><a href="https://doi.org/10.1002/jcv2.12073">Paper &rarr;</a><span class="pub-tag">Social connection</span></p>
+</div>
+</div>
+<div class="pub" data-themes="depression disparities">
+<a class="pub-cover" href="https://doi.org/10.1002/da.23213" tabindex="-1" aria-hidden="true"><img src="images/D&amp;A.png" alt=""></a>
+<div class="pub-body">
+<p class="pub-title"><a href="https://doi.org/10.1002/da.23213">Age and sex-related variability in the presentation of generalized anxiety and depression symptoms</a></p>
+<p class="pub-meta"><strong>Thompson, K. N.</strong> et al. (2021). <em>Depression and Anxiety</em>.</p>
+<p class="pub-links"><a href="https://doi.org/10.1002/da.23213">Paper &rarr;</a><span class="pub-tag">Depression</span><span class="pub-tag">Disparities</span></p>
+</div>
+</div>
+```
 
-</p>
-
-<p class="research-box-desc">
-
-</p>
 :::
 
-::: research-box
-<p class="research-box-title">
+::: pub-group
+### Senior author
 
-**Disparities in mental health**
+```{=html}
+<div class="pub" data-themes="depression">
+<a class="pub-cover" href="https://doi.org/10.1016/j.ssmph.2025.101886" tabindex="-1" aria-hidden="true"><img src="images/SSM.png" alt=""></a>
+<div class="pub-body">
+<p class="pub-title"><a href="https://doi.org/10.1016/j.ssmph.2025.101886">What machine learning teaches us about depression prediction across the life course: an exploratory comparison of predictive models</a></p>
+<p class="pub-meta">Geurgas, R. et al. (2025). <em>SSM – Population Health</em>.</p>
+<p class="pub-links"><a href="https://doi.org/10.1016/j.ssmph.2025.101886">Paper &rarr;</a><span class="pub-tag">Depression</span></p>
+</div>
+</div>
+```
 
-</p>
-
-<p class="research-box-desc">
-
-</p>
-:::
-::::::
-
-
-------------------------------------------------------------------------
-
-## Recent publications
-
-Committed to open and reproducible science: pre-registrations on [Open Science Framework](https://osf.io/r58nz/) and code on [GitHub](https://github.com/knthompson26).
-
-*Hover over an image for the paper title, or click through to read it.*
-
-### First Author {.pub-section-title}
-
-::: paper-row
-<a href="https://doi.org/10.1007/s00127-026-03098-0" title="Illuminating the complex interplay of risk factors for depression symptoms within a large-scale US longitudinal cohort (2026)"> <img src="images/SPPE.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1007/s10519-026-10251-7" title="Developing and Teaching Curriculum to Reduce Genetic Essentialism in College Classrooms (2026)"> <img src="images/BG.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1007/s00787-024-02573-w" title="The overlap between social isolation and mental health problems: a longitudinal behavioural genetic analysis in the E-Risk cohort (2025)"> <img src="images/ECAP.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1016/j.jaacop.2023.02.001" title="Do children with attention-deficit/hyperactivity disorder symptoms become socially isolated? (2023)"> <img src="images/JAACAPO.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1002/jcv2.12073" title="Trajectories of childhood social isolation in a nationally representative cohort (2022)"> <img src="images/JCPPA.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1002/da.23213" title="Age and sex-related variability in the presentation of generalized anxiety and depression symptoms (2021)"> <img src="images/D&amp;A.png" class="paper-img"/> </a>
 :::
 
-### Senior Author {.pub-section-title}
+::: pub-group
+### Collaborations
 
-::: paper-row
-<a href="https://doi.org/10.1016/j.ssmph.2025.101886" title="What Machine Learning Teaches Us About Depression Prediction Across the Life Course (2025)"> <img src="images/SSM.png" class="paper-img"/> </a>
+```{=html}
+<div class="collab-grid"><a class="collab" href="https://doi.org/10.1017/S0954579426101758">
+<img src="images/DevPsych.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Bryan, B. et al. (2026)</span><em>Development and Psychopathology</em></span>
+</a>
+<a class="collab" href="https://doi.org/10.1016/j.xjmad.2026.100171">
+<img src="images/JMAD.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Dunn, E. C. et al. (2026)</span><em>Journal of Mood and Anxiety Disorders</em></span>
+</a>
+<a class="collab" href="https://doi.org/10.1016/j.xhgg.2025.100548">
+<img src="images/HGG.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Wedow, R. et al. (2026)</span><em>Human Genetics and Genomics Advances</em></span>
+</a>
+<a class="collab" href="https://doi.org/10.1017/S0033291725101037">
+<img src="images/PsychMed.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Skelton, M. et al. (2025)</span><em>Psychological Medicine</em></span>
+</a>
+<a class="collab" href="https://doi.org/10.1016/j.jad.2025.04.010">
+<img src="images/JAD.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Morneau-Vaillancourt, G. et al. (2025)</span><em>Journal of Affective Disorders</em></span>
+</a>
+<a class="collab" href="https://doi.org/10.1037/dev0001788">
+<img src="images/DevPsych2.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Thériault-Couture, F. et al. (2024)</span><em>Developmental Psychology</em></span>
+</a>
+<a class="collab" href="https://doi.org/10.1016/j.socscimed.2024.116697">
+<img src="images/SSMed.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Bryan, B. T. et al. (2024)</span><em>Social Science &amp; Medicine</em></span>
+</a>
+<a class="collab" href="https://doi.org/10.1093/occmed/kqad138">
+<img src="images/OccMed.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Bryan, B. T. et al. (2023)</span><em>Occupational Medicine</em></span>
+</a>
+<a class="collab" href="https://doi.org/10.1186/s12888-023-04890-x">
+<img src="images/BMCPsych.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Bright, S. J. et al. (2023)</span><em>BMC Psychiatry</em></span>
+</a>
+<a class="collab" href="https://doi.org/10.1186/s12888-022-04275-6">
+<img src="images/BMCPsych2.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Rayner, C. et al. (2022)</span><em>BMC Psychiatry</em></span>
+</a>
+<a class="collab" href="http://doi.org/10.1017/S0033291722002501">
+<img src="images/PsychMed2.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Young, K. S. et al. (2022)</span><em>Psychological Medicine</em></span>
+</a>
+<a class="collab" href="https://doi.org/10.1016/j.janxdis.2021.102491">
+<img src="images/JAnxD.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Davies, M. R. et al. (2021)</span><em>Journal of Anxiety Disorders</em></span>
+</a>
+<a class="collab" href="https://doi.org/10.1136/thoraxjnl-2021-217487">
+<img src="images/Thorax.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Holt, H. et al. (2021)</span><em>Thorax</em></span>
+</a>
+<a class="collab" href="https://doi.org/10.1016/j.jadr.2021.100201">
+<img src="images/JADR.png" alt="">
+<span class="collab-meta"><span class="collab-auth">Peel, A. J. et al. (2021)</span><em>Journal of Affective Disorders Reports</em></span>
+</a></div>
+```
+
 :::
 
-### Collaborations {.pub-section-title}
+```{=html}
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const pubs = document.querySelectorAll(".pub[data-themes]");
+  const btns = document.querySelectorAll(".pub-filter");
+  const sections = document.querySelectorAll(".pub-group");
+  function apply(f) {
+    btns.forEach(b => b.classList.toggle("is-active", b.dataset.filter === f));
+    pubs.forEach(p => { p.hidden = !(f === "all" || p.dataset.themes.split(" ").includes(f)); });
+    sections.forEach(s => {
+      const items = s.querySelectorAll(".pub[data-themes]");
+      if (items.length) s.hidden = [...items].every(p => p.hidden);
+      else s.hidden = f !== "all";
+    });
+  }
+  btns.forEach(b => b.addEventListener("click", () => apply(b.dataset.filter)));
+  document.querySelectorAll(".theme-card").forEach(c => c.addEventListener("click", () => {
+    apply(c.dataset.filter);
+    document.getElementById("publications").scrollIntoView({behavior: "smooth"});
+  }));
+});
+</script>
+```
 
-::: paper-row
-<a href="https://doi.org/10.1017/S0954579426101758" title="Bryan, B. et al. (2026) - Development and Psychopathology"> <img src="images/DevPsych.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1016/j.xjmad.2026.100171" title="Dunn, E. C. et al. (2026) - Journal of Mood and Anxiety Disorders"> <img src="images/JMAD.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1016/j.xhgg.2025.100548" title="Wedow, R. et al. (2026) - Human Genetics and Genomics Advances"> <img src="images/HGG.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1017/S0033291725101037" title="Skelton, M. et al. (2025) - Psychological Medicine"> <img src="images/PsychMed.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1016/j.jad.2025.04.010" title="Morneau-Vaillancourt, G. et al. (2025) - Journal of Affective Disorders"> <img src="images/JAD.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1037/dev0001788" title="Thériault-Couture, F. et al. (2024) - Developmental Psychology"> <img src="images/DevPsych2.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1016/j.socscimed.2024.116697" title="Bryan, B. T. et al. (2024) - Social Science &amp; Medicine"> <img src="images/SSMed.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1093/occmed/kqad138" title="Bryan, B. T. et al. (2023) - Occupational Medicine"> <img src="images/OccMed.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1186/s12888-023-04890-x" title="Bright, S. J. et al. (2023) - BMC Psychiatry"> <img src="images/BMCPsych.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1186/s12888-022-04275-6" title="Rayner, C. et al. (2022) - BMC Psychiatry"> <img src="images/BMCPsych2.png" class="paper-img"/> </a>
-
-<a href="http://doi.org/10.1017/S0033291722002501" title="Young, K. S. et al. (2022) - Psychological Medicine"> <img src="images/PsychMed2.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1016/j.janxdis.2021.102491" title="Davies, M. R. et al. (2021) - Journal of Anxiety Disorders"> <img src="images/JAnxD.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1136/thoraxjnl-2021-217487" title="Holt, H. et al. (2021) - Thorax"> <img src="images/Thorax.png" class="paper-img"/> </a>
-
-<a href="https://doi.org/10.1016/j.jadr.2021.100201" title="Peel, A. J. et al. (2021) - Journal of Affective Disorders Reports"> <img src="images/JADR.png" class="paper-img"/> </a>
-:::
-
-------------------------------------------------------------------------
