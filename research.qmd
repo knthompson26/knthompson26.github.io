@@ -61,7 +61,7 @@ Committed to open and reproducible science: pre-registrations on [Open Science F
 <div class="pub-cover pub-cover--empty" aria-hidden="true">Preprint</div>
 <div class="pub-body">
 <p class="pub-title"><a href="https://doi.org/10.31234/osf.io/j5drc_v1">Social connection can mitigate depression risk</a></p>
-<p class="pub-meta"><strong>Thompson, K. N.</strong> et al. (2026). <em>Nature Human Behaviour (in press)</em>.</p>
+<p class="pub-meta"><strong>Thompson, K. N.</strong> et al. (2026). <em>In press</em>.</p>
 <p class="pub-links"><a href="https://doi.org/10.31234/osf.io/j5drc_v1">Preprint &rarr;</a><span class="pub-tag">Social connection</span><span class="pub-tag">Disparities</span><span class="pub-tag">Depression</span></p>
 </div>
 </div>
